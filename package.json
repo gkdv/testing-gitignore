@@ -1,0 +1,22 @@
+{
+  "name": "testing-gitignore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkdv/testing-gitignore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkdv/testing-gitignore/issues"
+  },
+  "homepage": "https://github.com/gkdv/testing-gitignore#readme",
+  "dependencies": {
+    "inquirer": "^7.0.4"
+  }
+}
